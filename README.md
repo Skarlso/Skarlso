@@ -1,4 +1,4 @@
-### Heil og sæl
+### Salutations
 
 ![image](https://github.githubassets.com/images/mona-whisper.gif)
 
