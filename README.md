@@ -7,9 +7,9 @@
 - Thinkerer on various projects
 - Kubernetes SIGs and Kubernetes Org member
 
-### Distribution Face Recognition Service
+### Distributed Face Recognition Service
 
 I'm also working on [Kube Project](https://kubeproject.app) which is a sample application for a distributed service structure that can be deployed on Kubernetes.
 It's using tilt so deployment and usage is super simple.
 
-The project's aim is to bring the world of distributed software closer to starting developers.
+The project aims to bring the world of distributed software closer to starting developers.
