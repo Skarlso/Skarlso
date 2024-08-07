@@ -2,8 +2,8 @@
 
 ![image](https://github.githubassets.com/images/mona-whisper.gif)
 
-- Proud maintainer of the [CAPA](https://github.com/kubernetes-sigs/cluster-api-provider-aws/) project!
-- Proud maintainer of the [external-secrets](https://github.com/external-secrets/external-secrets) project!
+- Proud ( once, now emeritus ) maintainer of the [CAPA](https://github.com/kubernetes-sigs/cluster-api-provider-aws/) project!
+- Proud active maintainer of the [external-secrets](https://github.com/external-secrets/external-secrets) project!
 - Open source advocate
 - Thinkerer on various projects
 - Kubernetes SIGs and Kubernetes Org member
