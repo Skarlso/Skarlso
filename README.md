@@ -1,5 +1,7 @@
 ### Salutations
 
+[![DevStats Card](https://devstats.me/?username=skarlso)](https://github.com/tico88612/devstats-card)
+
 ![image](https://github.githubassets.com/images/mona-whisper.gif)
 
 - Proud active maintainer of the [external-secrets](https://github.com/external-secrets/external-secrets) project!
