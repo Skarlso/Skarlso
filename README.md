@@ -10,7 +10,7 @@
 - Thinkerer on various projects
 - Kubernetes SIGs and Kubernetes Org member
 
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skarlso&theme=dracula
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skarlso&theme=dracula)
 
 ### Distributed Face Recognition Service
 
