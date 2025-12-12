@@ -12,6 +12,14 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skarlso&theme=dracula)
 
+### Adventure Voter
+
+This is presentation system that is based on voters from the audience.
+
+You can read more about here: [Adventure Voter](https://github.com/Skarlso/adventure-voter).
+
+![image](https://raw.githubusercontent.com/Skarlso/adventure-voter/refs/heads/main/imgs/screen1.png)
+
 ### Distributed Face Recognition Service
 
 I'm also working on [Kube Project](https://kube-project.github.io/) which is a sample application for a distributed service structure that can be deployed on Kubernetes.
