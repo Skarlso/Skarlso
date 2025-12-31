@@ -27,7 +27,7 @@ It's using [tilt](https://tilt.dev/) so deployment and usage are super simple.
 
 The project aims to bring the world of distributed software closer to starting developers.
 
-### Curse Of Strahd Daggerheart port
+### Curse Of Strahd Daggerheart Campaign Framework
 
 I'm also the creator of https://daggerstrahd.github.io/. Which is a Curse of Strahd Dungeons and Dragons module ported over to the Daggerheart play system.
 Check it out and leave an issue if you find something is not right.
