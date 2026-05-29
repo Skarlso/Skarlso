@@ -1,6 +1,6 @@
 ### Salutations
 
-[![DevStats Card](https://devstats.me/?username=skarlso)](https://github.com/tico88612/devstats-card)
+[![DevStats Card](https://devstats.cluster.fun/?user=skarlso)](https://github.com/tico88612/devstats-card)
 
 ![image](https://github.githubassets.com/images/mona-whisper.gif)
 
